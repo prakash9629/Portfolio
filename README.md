@@ -13,7 +13,7 @@
 
   Drew hays is a fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/drew-hays-personal-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://prakash9629.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
